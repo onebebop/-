@@ -16,7 +16,9 @@ npm init
 
 
 
-# vue
+# vue父子传值
+
+# vue路由
 
 路由 vue-router
 
@@ -43,3 +45,6 @@ npm init
 懒加载
 
 ![image-20200502162840953](C:\Users\Dell\Documents\My document\个人前端笔记\image-20200502162840953.png)
+
+
+
